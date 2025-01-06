@@ -27,8 +27,18 @@ https://github.com/Ragavi2909/C-Program/issues/1#issue-2770939064
 *Description:*
  This program implements a singly linked list, a dynamic data structure where each node contains data and a pointer to the next node.
  It supports three core operations: insertion (adding nodes at the beginning, end, or a specific position),
-                                    deletion (removing nodes from any position), and 
-                                    traversal.
+                                    deletion (removing nodes from any position),
+                                    traversal from head to tail and tail to head
 
 *OUTPUT OF TASK 2*
+https://github.com/Ragavi2909/C-Program/issues/2#issue-2770966164
+
+
+
+
+# TASK 2
+*Description:*
+This C program performs lexical analysis on a source file, identifying and categorizing keywords, operators, and identifiers. It reads the file, processes each character, and prints the corresponding lexical elements.
+*OUTPUT OF TASK 3*
+
 
