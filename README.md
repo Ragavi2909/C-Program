@@ -36,9 +36,29 @@ https://github.com/Ragavi2909/C-Program/issues/2#issue-2770966164
 
 
 
-# TASK 2
+# TASK 3
 *Description:*
 This C program performs lexical analysis on a source file, identifying and categorizing keywords, operators, and identifiers. It reads the file, processes each character, and prints the corresponding lexical elements.
+
 *OUTPUT OF TASK 3*
+https://github.com/Ragavi2909/C-Program/issues/3#issue-2770971278
+
+
+
+
+# TASK 4
+*Description:*
+This C program implements Run-Length Encoding (RLE) for compressing and decompressing text files, featuring a menu-driven interface for user interaction. It reads input files, performs RLE operations, and displays the processed file contents with error handling for file operations.
+
+
+*OUTPUT OF TASK 4*
+
+
+
+
+
+
+
+
 
 
