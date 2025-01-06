@@ -18,6 +18,7 @@
  The program focuses on four key operations: creating, reading, writing, and appending data to a file. 
 
 *OUTPUT OF TASK 1*
+https://github.com/Ragavi2909/C-Program/issues/1#issue-2770939064
 
 
 
